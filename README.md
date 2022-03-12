@@ -1,11 +1,10 @@
 ### Hi there 👋
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaSh8202&show_icons=true&theme=flag-india)<br>
-**xPushepeshx/xPushpeshx**
-- 🔭 I’m currently working on - Django
-- 🌱 I’m currently learning - Api's
-- 🤔 I’m looking for help with - GraphQl
+**YaSh8202/YaSh8202**
+- 🔭 I’m currently working on - React
+- 🌱 I’m currently learning - React
 - 💬 Ask me about - Anything
-- 📫 How to reach me: Please Don't
+- 📫 How to reach me: bajajy82@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: You are funnny
 - 
