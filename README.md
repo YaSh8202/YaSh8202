@@ -1,16 +1,12 @@
 ### Hi there 👋
-
-<!--
-**YaSh8202/YaSh8202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaSh8202&show_icons=true&theme=flag-india)<br>
+**xPushepeshx/xPushpeshx**
+- 🔭 I’m currently working on - Django
+- 🌱 I’m currently learning - Api's
+- 🤔 I’m looking for help with - GraphQl
+- 💬 Ask me about - Anything
+- 📫 How to reach me: Please Don't
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: You are funnny
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaSh8202&layout=compact)](https://github.com/YaSh8202/github-readme-stats)
