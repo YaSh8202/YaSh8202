@@ -3,9 +3,8 @@
 **YaSh8202/YaSh8202**
 - 🔭 I’m currently working on - React
 - 🌱 I’m currently learning - React
-- 💬 Ask me about - Anything
+- 💬 Ask me about - Python,CP,JS
 - 📫 How to reach me: bajajy82@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: You are funnny
-- 
+- ⚡ Fun fact: **Hot water will turn into ice faster than cold water.**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaSh8202&layout=compact)](https://github.com/YaSh8202/github-readme-stats)
